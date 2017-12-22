@@ -1,7 +1,7 @@
 {
   "name": "@fpoumian/common",
   "version": "1.0.0",
-  "description": "Common config for Node.js projects",
+  "description": "Common configurations and files for JS projects.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

@@ -8,7 +8,7 @@
   },
   "author": "Fernando Poumian",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "babel-eslint": "^8.0.3",
     "eslint": "^4.13.1",
     "eslint-config-cleanjs": "^4.0.0",

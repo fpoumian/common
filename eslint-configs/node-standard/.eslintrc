@@ -1,0 +1,20 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["standard", "prettier"],
+  "plugins": ["prettier"],
+  "parserOptions": {
+    "ecmaVersion": 7,
+    "sourceType": "module",
+    "experimentalObjectRestSpread": true
+},
+  "env": {
+    "jest": true,
+    "es6": true
+  },
+  "rules": {
+    "prettier/prettier": [
+      "warn",
+      { "singleQuote": true, "semi": false, "trailingComma": "es5" }
+    ]
+  }
+}

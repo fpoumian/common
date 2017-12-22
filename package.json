@@ -8,6 +8,7 @@
   },
   "author": "Fernando Poumian",
   "license": "MIT",
+  "repository": "github:fpoumian/common",
   "dependencies": {
     "babel-eslint": "^8.0.3",
     "eslint": "^4.13.1",

@@ -10,9 +10,7 @@
   "license": "MIT",
   "repository": "github:fpoumian/common",
   "dependencies": {
-    "babel-cli": "^6.26.0",
     "babel-eslint": "^8.0.3",
-    "babel-jest": "^22.0.4",
     "eslint": "^4.13.1",
     "eslint-config-cleanjs": "^4.0.0",
     "eslint-config-prettier": "^2.9.0",
